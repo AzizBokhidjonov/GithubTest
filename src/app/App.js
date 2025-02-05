@@ -16,7 +16,7 @@ import settingsConfig from 'app/configs/settingsConfig';
 import withAppProviders from './withAppProviders';
 import { AuthProvider } from './auth/AuthContext';
 
-
+/**APP js */
 
 const emotionCacheOptions = {
   rtl: {
